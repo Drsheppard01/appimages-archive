@@ -1,0 +1,32 @@
+{
+	"name": "appimages",
+	"version": "0.0.1",
+	"private": "true",
+	"description": "Store for Appimges for Linux",
+	"keywords": [
+		"tailwind",
+		"tailwind css",
+		"html",
+		"css",
+		"astro",
+		"astro-theme",
+		"astro-template"
+	],
+	"homepage": "https://drsheppard01.github.io/appimages",
+	"bugs": "https://github.com/drsheppard01/appimages/issues",
+	"repository": "https://github.com/drsheppard01/appimages.git",
+	"license": "MIT",
+	"author": "DrSheppard.",
+	"type": "module",
+	"scripts": {
+		"astro": "astro",
+		"build": "astro build",
+		"dev": "astro dev",
+		"preview": "astro preview",
+		"start": "astro dev"
+	},
+	"dependencies": {
+		"astro": "^3.6.1"
+
+	}
+}
