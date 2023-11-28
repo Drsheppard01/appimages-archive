@@ -1,0 +1,15 @@
+/* TEAM */
+	Chef: Georgii Bogdanov
+	Contact: gbog [at] proton.me
+	Twitter: @gamer_sheppard
+	From: Korollyov, Moskovskaya Oblast, Russia.
+
+/* THANKS */
+	Technologies: Astro
+	GitHub: @withastro
+
+/* SITE */
+	Last update: 2023/11/28
+	Language: English
+	Doctype: Astro
+	IDE: github.dev
