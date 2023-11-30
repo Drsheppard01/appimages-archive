@@ -1,3 +1,3 @@
 Appimage site
 
-https://drsheppard.io.github.io/appimages
+https://drsheppard.github.io/appimages
