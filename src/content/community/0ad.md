@@ -1,8 +1,16 @@
-  ![EgyptianPyramids](https://user-images.githubusercontent.com/88724353/235563498-91c93488-3c44-49e6-a52a-d5c7022647cb.jpg)
+---
+
+Title: 0AD
+Author: Andy Alt
+isDraft: false
+PublishedDate: 18-07-2023
+tags:
+  - games
+  - RTS
+image: https://user-images.githubusercontent.com/88724353/235563498-91c93488-3c44-49e6-a52a-d5c7022647cb.jpg
+canonicalURL: drsheppard01.github.io/0ad
  
-# 0AD
-by
-## Andy Alt
+---
 
  0 A.D. (pronounced “zero-ey-dee”) is a free, open-source, historical
  Real Time Strategy (RTS) game currently under development by Wildfire
