@@ -1,5 +1,6 @@
 ---
 
+layout: ../../layouts/MarkdownPostLayout.astro
 Title: 0AD
 Author: Andy Alt
 isDraft: false
